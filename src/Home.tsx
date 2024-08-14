@@ -18,7 +18,7 @@ export default function Home() {
   useEffect(() => {
     const handleMessage = (event: MessageEvent) => {
       // Verifica que el mensaje proviene del dominio esperado
-      if (event.origin !== 'https://master.d1vid5xqqrcxyu.amplifyapp.com/') return;
+      if (event.origin !== 'https://master.dbw8z78piw1nu.amplifyapp.com/') return;
 
       // Procesa el mensaje
       const { message } = event.data;
