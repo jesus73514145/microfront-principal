@@ -48,7 +48,7 @@ export default function Home() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>MICROFRONT MAIN</h1>
+      <h1>MICROFRONT PRINCIPAL</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
