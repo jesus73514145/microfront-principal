@@ -65,9 +65,9 @@ export default function Home() {
       </p>
       <iframe 
         ref={iframeRef} 
-        src="https://master.dbw8z78piw1nu.amplifyapp.com/" 
+        src="https://master.d1vid5xqqrcxyu.amplifyapp.com/" 
         style={{ width: '100%', height: '100vh', border: 'none' }} 
-        title="Microfront-1"
+        title="Microfront-2"
       />
     </>
   )
