@@ -74,9 +74,17 @@ git commit -m "Archivos iniciales" -m "Co-authored-by: AlbertoSoria1998 < albert
 
 QUITAR LOS ESPACIOS DEL CORREO
 
-git remote add origin 
+git remote add origin https://github.com/jesus73514145/microfront-principal.git
 
 git push -u origin master
 
 
-LINK DE ESTE PROYECTO EN AMPLIFY DE MICROFRONT - PRINCIPAL
+## LINK DE ESTE PROYECTO EN AMPLIFY DE MICROFRONT - PRINCIPAL
+
+
+
+## COMANDO PARA CONFIGURAR EL CORREO Y USUARIO EN VISUAL STUDIO CODE
+
+ git config --global user.email "MICORREODEGITHUB"
+
+git config --global user.name "jesus73514145"
