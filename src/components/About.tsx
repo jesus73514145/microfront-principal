@@ -7,9 +7,9 @@ export default function PageAbout(){
             <h1>About</h1>
             <p>Esta es la página sobre. MICROFRONT 1</p>
             <iframe 
-                src="https://master.d1vid5xqqrcxyu.amplifyapp.com/" 
+                src="https://master.dbw8z78piw1nu.amplifyapp.com/" 
                 style={{ width: '100%', height: '100vh', border: 'none' }} 
-                title="Microfront-2"
+                title="Microfront-1"
             />
         </main>
     )
