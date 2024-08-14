@@ -81,7 +81,7 @@ git push -u origin master
 
 ## LINK DE ESTE PROYECTO EN AMPLIFY DE MICROFRONT - PRINCIPAL
 
-
+https://master.d19gi5htckg2p9.amplifyapp.com/
 
 ## COMANDO PARA CONFIGURAR EL CORREO Y USUARIO EN VISUAL STUDIO CODE
 
